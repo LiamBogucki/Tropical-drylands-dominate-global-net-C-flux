@@ -6,7 +6,7 @@ Liam Bogucki. <br />
 Email: lboguck@uwo.ca
 
 ## Conducting analysis
-To replicate the analysis presented in Bogucki et al. "Tropical drylands dominate global carbon flux interannual variability irrespective of different biome defintions and geographic scales" the following files must be retireved and placed in the foler as follows: <br />
+To replicate the analysis presented in Bogucki et al. "Tropical drylands dominate global carbon flux interannual variability irrespective of different biome defintions and geographic scales" the following files must be retireved and placed in the foler as follows: <br /><br />
 The TRENDY v11 flux files described in section 2.1. should be named the following where 'NAME' is replaced with the DGVM name: "fco2_NAME-S3_DEC2022-ext3_1970-2021_yearlymean_XYT.nc". The TRENDY results can be found here: https://mdosullivan.github.io/GCB/. <br />
 The ESA land cover product described in section 2.2.1. should be named "ESACCI-LC-L4-LCCS-Map-300m-P1Y-aggregated-0.500000Deg-2019-v2.1.1.nc".<br />
 The global area file for adjustment of the fluxes from KgC/m^2/yr to PgC/yr should be named "halfdeg_grid_area.dat" and is a global area-file at 0.5 degree solution that contains the area of each cell in m^2. <br />
