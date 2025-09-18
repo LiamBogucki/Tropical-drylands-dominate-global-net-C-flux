@@ -1,5 +1,5 @@
 # Tropical drylands domiante global net carbon flux interannual variability irrespective of different biome definitions and geographic scales
-This repository contains all of the code that was utilized in Bogucki et al. "Tropical drylands dominate global carbon flux interannual variability irrespective of different biome defintions and geographic scales". 
+This repository contains all of the code (Code folder) that was utilized in Bogucki et al. "Tropical drylands dominate global carbon flux interannual variability irrespective of different biome defintions and geographic scales". 
 
 ## Contact
 Liam Bogucki. <br />
@@ -18,5 +18,5 @@ The Aridity Index data file explained in seciton 2.2.3. should be named "halfdeg
 The Ecoregion data files described in section 2.3. should all be placed in this folder as they are named upon download. <br />
 
 <br />
-Finally, all notebooks should be run in their entirity starting with file 00, 01, 02, 03, 04, etc. and ending with file 015.<br />
+Finally, all notebooks should be run in their entirity starting with file 000, 001, 002, 03, etc. and ending with file 015.<br />
  NOTE: The results of file 015 "015_Bootstrapping.ipynb" may be slighlty different than the results reported, as bootstrapping involves random number generation. However, the 50,000 iterations should limit the degree of variability observed.
